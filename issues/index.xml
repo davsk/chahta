@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Issues on Chahta</title>
+    <link>/chahta.davsk.net/issues/</link>
+    <description>Recent content in Issues on Chahta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2020 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/chahta.davsk.net/issues/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site Development Issues</title>
+      <link>/chahta.davsk.net/issues/site-development-issues/</link>
+      <pubDate>Thu, 23 Jul 2020 05:00:00 +0000</pubDate>
+      
+      <guid>/chahta.davsk.net/issues/site-development-issues/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
