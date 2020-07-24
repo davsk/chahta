@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/chahta.davsk.net/</loc>
-    <lastmod>2020-07-23T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/chahta.davsk.net/issues/</loc>
     <lastmod>2020-07-23T05:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/chahta.davsk.net/issues/site-development-issues/</loc>
+    <lastmod>2020-07-23T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chahta.davsk.net/</loc>
     <lastmod>2020-07-23T05:00:00+00:00</lastmod>
   </url>
   
