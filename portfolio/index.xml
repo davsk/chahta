@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Issues on The Five Tribes of Oklahoma</title>
-    <link>/chahta.davsk.net/portfolio/</link>
+    <link>https://chahta.davsk.net/portfolio/</link>
     <description>Recent content in Issues on The Five Tribes of Oklahoma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="/chahta.davsk.net/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chahta.davsk.net/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
